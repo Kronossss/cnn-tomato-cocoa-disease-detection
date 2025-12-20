@@ -55,7 +55,7 @@ Acurácia de 95% no conjunto de validação
 
 Todas as classes com precisão e recall superiores a 0.85
 
-Validação externa com imagens inéditas (iStock), atingindo 90% de acurácia
+Teste externo com imagens inéditas, atingindo 90% de acurácia
 
 Demonstração de boa capacidade de generalização do modelo
 
