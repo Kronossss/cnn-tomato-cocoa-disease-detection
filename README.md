@@ -10,7 +10,7 @@ O trabalho está alinhado aos princípios da Agricultura 4.0, com foco na automa
 
 🎯 Objetivo do Projeto
 
-Desenvolver e validar um modelo de Deep Learning capaz de identificar, a partir de imagens, quatro condições distintas em culturas de tomate e cacau, garantindo desempenho equilibrado entre precisão e recall, mesmo em cenários de desbalanceamento de classes.
+Desenvolver e validar um modelo de Deep Learning (CNNs) capaz de identificar, a partir de imagens, quatro condições distintas em culturas de tomate e cacau, garantindo desempenho equilibrado entre precisão e recall, mesmo em cenários de desbalanceamento de classes.
 
 🌱 Classes Consideradas
 
