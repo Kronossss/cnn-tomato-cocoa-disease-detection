@@ -83,6 +83,8 @@ Demonstração de boa capacidade de generalização do modelo
 
 Os resultados confirmam que estratégias focadas no equilíbrio das métricas são fundamentais para sistemas de diagnóstico agrícola confiáveis.
 
+<img width="801" height="707" alt="image" src="https://github.com/user-attachments/assets/d3c080e9-9a36-4fe2-b0a0-f60d0fee7dad" />
+
 🛠️ Tecnologias Utilizadas
 
 Python
