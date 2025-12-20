@@ -101,4 +101,4 @@ Os resultados obtidos não garantem desempenho estatístico absoluto em ambiente
 
 Igor Alex Farias
 Trabalho de Conclusão de Curso – Graduação
-Área: Inteligência Artificial / Visão Computacional / Agricultura 4.0
+Área: Inteligência Artificial / Visão Computacional / Agricultura 4.0 / Redes Neurais Convolucionais / Desbalanceamento de Classes /  Diagnóstico Agrícola. 
