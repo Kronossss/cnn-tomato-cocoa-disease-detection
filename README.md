@@ -74,7 +74,7 @@ Pandas
 Scikit-learn
 
 Matplotlib / Seaborn
-
+```text
 📁 Estrutura do Repositório (exemplo)
 ├── dataset/
 │   ├── treino/
