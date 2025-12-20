@@ -24,6 +24,23 @@ CacauSaudavel – frutos de cacau saudáveis
 
 black_pod_rot – podridão-parda do cacau (Phytophthora spp.)
 
+🧱 Construção e Caracterização do Dataset
+
+Os datasets específicos que formaram a base deste estudo foram:
+
+a) Do repositório Kaggle:
+- PlantVillage Dataset: Uma coleção extensa e popular de imagens de folhas de plantas
+saudáveis e doentes, da qual foram extraídas as imagens de tomateiro.
+- Cacao Diseases Dataset: Um conjunto de dados focado especificamente em imagens
+de frutos de cacau, contendo tanto exemplares saudáveis quanto afetados por
+doenças.
+b) Do repositório Mendeley Data:
+- Tomato Leaf Image Dataset (TLID/PTLID): Um dataset adicional para complementar
+as imagens de folhas de tomate, aumentando a variedade de exemplos para as classes
+relacionadas.
+
+<img width="609" height="179" alt="image" src="https://github.com/user-attachments/assets/8c479aa7-d935-4901-90f2-01a18793adc4" />
+
 🧠 Metodologia
 
 O desenvolvimento do projeto foi estruturado em quatro fases principais:
